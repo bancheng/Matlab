@@ -3,5 +3,9 @@ test
 测试
 test3
 test4
-test5 is
+<<<<<<< HEAD
+test5 are
+=======
+test5 are
+>>>>>>> tangdongge
 test6
